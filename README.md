@@ -1,5 +1,5 @@
 # Communicate Data Findings
-This project is part of Udacity data analysis Nanodegree, where I am performing an exploratory analysis on dataset consist of more than 7 million flights records for the year 2008.
+This project is part of Udacity data analyst Nanodegree, where I am performing an exploratory analysis on dataset consist of more than 7 million flights records for the year 2008.
 
 Project files:
 
